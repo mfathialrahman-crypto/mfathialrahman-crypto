@@ -11,7 +11,8 @@ I do not collect other people's articles. I run a living cognitive operating sys
 
 ## What you may see
 
-Headquarters (public): **[FathiMind](https://github.com/mfathialrahman-crypto/FathiMind)**
+Headquarters (public): **[FathiMind](https://github.com/mfathialrahman-crypto/FathiMind)**  
+Press & trade: **[PRESS.md](https://github.com/mfathialrahman-crypto/FathiMind/blob/main/PRESS.md)**
 
 ## What you may not take
 
