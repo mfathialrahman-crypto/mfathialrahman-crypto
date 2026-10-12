@@ -2,21 +2,21 @@
 
 **FathiMind** — human-centric cognitive engineering.
 
-© 2026 Mohamed Fathi Alrahman. **All rights reserved. Not open source.**  
-The public window is for looking. The engines are private. Viewing is not a license.
+© 2026 Mohamed Fathi Alrahman. **All rights reserved on core engines.**  
+Public components are intentionally released under MIT for inspection and legitimate use.
 
 I do not collect other people's articles. I run a living cognitive operating system: measure, verify, reason, evolve.
 
 ---
 
-## What you may see
+## Public Cognitive Components
 
-Headquarters (public): **[FathiMind](https://github.com/mfathialrahman-crypto/FathiMind)**  
-Press & trade: **[PRESS.md](https://github.com/mfathialrahman-crypto/FathiMind/blob/main/PRESS.md)**
+| Component | Role | Link |
+| --- | --- | --- |
+| **MFR Adaptive Intelligence Core Pro** | Transparent evidence → Bayesian reasoning → verification → self-improvement | [Public MIT](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro) |
+| **FathiMind HQ** | Architecture, decisions, quality, OKRs, RFCs | [FathiMind](https://github.com/mfathialrahman-crypto/FathiMind) |
 
-## What you may not take
-
-Runtime engines are **private**. They are not MIT, not forkable, not for training, not for reuse.
+## Private Runtime Layers (not open source)
 
 | Layer | Role | Access |
 | --- | --- | --- |
@@ -30,9 +30,10 @@ HelixMind          →  measure
 MFR-Cognition      →  verify
 AetherMind         →  reason
 SovereignEvolution →  evolve
+Public Core Pro    →  transparent adaptive analysis
 ```
 
-Last public signal: Helix health **100** · MFR **STABLE / 0.85** · gen **238**.
+Last public signal: Helix health **100** · MFR **STABLE / 0.85** · gen **238** · Core Pro **v2.1.0 live**.
 
 ---
 
@@ -42,8 +43,13 @@ Last public signal: Helix health **100** · MFR **STABLE / 0.85** · gen **238**
 2. No fake changes.
 3. Every decision is a trace.
 4. Layers stay separate.
-5. All benefit returns to the owner.
+5. Public transparency where it strengthens trust; private engines where it protects the system.
+6. Continuous daily evolution.
 
 ---
 
-Any copy, fork, republication, or commercial use without written permission is prohibited.
+**Continuous development active.**  
+Public components are hardened, tested, and CI-enabled.  
+Core engines remain proprietary.
+
+Any unauthorized commercial extraction of private engines is prohibited.
