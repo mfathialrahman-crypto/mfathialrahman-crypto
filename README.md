@@ -1,55 +1,97 @@
 # Mohamed Fathi Alrahman
 
-**FathiMind** — human-centric cognitive engineering.
+**FathiMind** — Human-centric cognitive engineering operating system.
 
-© 2026 Mohamed Fathi Alrahman. **All rights reserved on core engines.**  
-Public components are intentionally released under MIT for inspection and legitimate use.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT (public)](https://img.shields.io/badge/Public%20Components-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Ecosystem-Live%20%26%20Evolving-brightgreen)](https://github.com/mfathialrahman-crypto/FathiMind)
+[![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.1--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
 
-I do not collect other people's articles. I run a living cognitive operating system: measure, verify, reason, evolve.
+> I do not curate other people's reading lists.  
+> I run a living cognitive operating system that **measures → verifies → reasons → evolves** every day.
 
 ---
 
-## Public Cognitive Components
+## Live Signal (2026-10-13)
+
+| Layer | Status | Version | Cadence |
+|-------|--------|---------|---------|
+| **HelixMind** | Health **100/100** | v1.2 | every 2h |
+| **MFR-Cognition** | STABLE · confidence 0.85+ | v4.2.219 | every 2h |
+| **AetherMind** | Operational | v1.3 | every 2h |
+| **SovereignEvolution** | Active · targets completed | v1.44 | daily 03:00 UTC |
+| **Public Core Pro** | Live · tested · CI | v2.1.1-pro | continuous |
+
+Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC-0001) · Decision traces replayable.
+
+---
+
+## Public Cognitive Components (MIT)
 
 | Component | Role | Link |
-| --- | --- | --- |
-| **MFR Adaptive Intelligence Core Pro** | Transparent evidence → Bayesian reasoning → verification → self-improvement | [Public MIT](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro) |
-| **FathiMind HQ** | Architecture, decisions, quality, OKRs, RFCs | [FathiMind](https://github.com/mfathialrahman-crypto/FathiMind) |
+|-----------|------|------|
+| **MFR Adaptive Intelligence Core Pro** | Evidence → Bayesian reasoning → Verification → Self-improvement · full audit trail · credible intervals | [Public MIT](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro) |
+| **FathiMind HQ** | Architecture · Decisions · Quality · OKRs · RFCs · Engineering Constitution | [FathiMind](https://github.com/mfathialrahman-crypto/FathiMind) |
 
-## Private Runtime Layers (not open source)
+```bash
+# Instant use of the public core
+pip install -e git+https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro.git#egg=mfr-adaptive-intelligence-core-pro
+python -c "from mfr_core_pro import IntelligenceRecord, Evidence; print('Core ready')"
+```
+
+---
+
+## Private Runtime Layers (Proprietary)
 
 | Layer | Role | Access |
-| --- | --- | --- |
-| HelixMind | measure | private |
-| MFR-Cognition | verify | private |
-| AetherMind | reason | private |
-| SovereignEvolution | evolve | private |
+|-------|------|--------|
+| HelixMind | **measure** — multi-layer anomaly + explainable health | private |
+| MFR-Cognition | **verify** — evidence, confidence, decision object, redaction | private |
+| AetherMind | **reason** — hypotheses + recommendation only when confidence clears gate | private |
+| SovereignEvolution | **evolve** — scored next targets, permanent memory, no fake changes | private |
+| auto-serve | Serve gate — result only when evidence + freshness + confidence pass | private |
 
 ```
 HelixMind          →  measure
 MFR-Cognition      →  verify
 AetherMind         →  reason
 SovereignEvolution →  evolve
-Public Core Pro    →  transparent adaptive analysis
+Public Core Pro    →  transparent adaptive analysis (MIT)
 ```
-
-Last public signal: Helix health **100** · MFR **STABLE / 0.85** · gen **238** · Core Pro **v2.1.0 live**.
 
 ---
 
-## Doctrine
+## Doctrine (Non-negotiable)
 
-1. No strong recommendation at low confidence.
-2. No fake changes.
-3. Every decision is a trace.
-4. Layers stay separate.
-5. Public transparency where it strengthens trust; private engines where it protects the system.
-6. Continuous daily evolution.
+1. **No strong recommendation at low confidence.**
+2. **No fake changes.** Only real, high-value, safe work is executed.
+3. **Every decision is a trace** — input, evidence, anomalies, confidence, signature.
+4. **Layers stay separate.** Contracts and local envelopes, never tight coupling.
+5. **Public transparency where it builds trust; private engines where it protects the system.**
+6. **Continuous daily evolution.**
+
+---
+
+## Why this is different
+
+Stars measure bookmarks.  
+**Traces measure whether a system worked this morning.**
+
+FathiMind produces structured, replayable decisions with confidence scores and improvement suggestions. It is not a chatbot wrapper and not a curated index.
+
+---
+
+## Engineering Constitution
+
+See [AGENTS.md](./AGENTS.md) — the project engineering constitution that every agent and human contributor follows.
 
 ---
 
 **Continuous development active.**  
 Public components are hardened, tested, and CI-enabled.  
 Core engines remain proprietary.
+
+© 2026 Mohamed Fathi Alrahman. All rights reserved on core engines.  
+Public components intentionally released under MIT for inspection and legitimate use.
 
 Any unauthorized commercial extraction of private engines is prohibited.
