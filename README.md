@@ -6,6 +6,7 @@
 [![License: MIT (public)](https://img.shields.io/badge/Public%20Components-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Ecosystem-Live%20%26%20Evolving-brightgreen)](https://github.com/mfathialrahman-crypto/FathiMind)
 [![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.1--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
+[![Public Signals](https://img.shields.io/badge/Public%20Signals-Live-success)](https://github.com/mfathialrahman-crypto/fathimind-public-signals)
 
 > I do not curate other people's reading lists.  
 > I run a living cognitive operating system that **measures → verifies → reasons → evolves** every day.
@@ -24,6 +25,8 @@
 
 Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC-0001) · Decision traces replayable.
 
+→ Full public window: [fathimind-public-signals](https://github.com/mfathialrahman-crypto/fathimind-public-signals)
+
 ---
 
 ## Public Cognitive Components (MIT)
@@ -32,6 +35,7 @@ Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC
 |-----------|------|------|
 | **MFR Adaptive Intelligence Core Pro** | Evidence → Bayesian reasoning → Verification → Self-improvement · full audit trail · credible intervals | [Public MIT](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro) |
 | **FathiMind HQ** | Architecture · Decisions · Quality · OKRs · RFCs · Engineering Constitution | [FathiMind](https://github.com/mfathialrahman-crypto/FathiMind) |
+| **Public Signals** | Transparent live health + status (no secrets) | [fathimind-public-signals](https://github.com/mfathialrahman-crypto/fathimind-public-signals) |
 
 ```bash
 # Instant use of the public core
@@ -57,6 +61,7 @@ MFR-Cognition      →  verify
 AetherMind         →  reason
 SovereignEvolution →  evolve
 Public Core Pro    →  transparent adaptive analysis (MIT)
+Public Signals     →  live status window
 ```
 
 ---
