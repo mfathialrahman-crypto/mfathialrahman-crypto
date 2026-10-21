@@ -13,15 +13,16 @@
 
 ---
 
-## Live Signal (2026-10-19)
+## Live Signal (2026-10-21)
 
 | Layer | Status | Version | Cadence |
 |-------|--------|---------|---------|
 | **HelixMind** | Operational | v1.2 | every 2h |
-| **MFR-Cognition** | STABLE · confidence 0.85+ | v4.2.247 | every 2h |
+| **MFR-Cognition** | STABLE · confidence 0.85+ | v4.2.252 | every 2h |
 | **AetherMind** | Operational | v1.3 | every 2h |
 | **SovereignEvolution** | Active · targets completed | v1.44 | daily 03:00 UTC |
-| **Public Core Pro** | Live · tested · CI | v2.1.14-pro | continuous |
+| **Public Core Pro** | Live · tested · CI green | v2.1.14-pro | continuous |
+| **skill-collision-security-lint** | CI green (3.10–3.12) | v0.1.1 | continuous |
 
 Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC-0001) · Decision traces replayable.
 
@@ -34,6 +35,7 @@ Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC
 | Component | Role | Link |
 |-----------|------|------|
 | **MFR Adaptive Intelligence Core Pro** | Evidence → Bayesian reasoning → Verification → Self-improvement · full audit trail · credible intervals | [Public MIT](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro) |
+| **skill-collision-security-lint** | Independent collision detector + security lint for Agent Skills | [Apache-2.0](https://github.com/mfathialrahman-crypto/skill-collision-security-lint) |
 | **FathiMind HQ** | Architecture · Decisions · Quality · OKRs · RFCs · Engineering Constitution | [FathiMind](https://github.com/mfathialrahman-crypto/FathiMind) |
 | **Public Signals** | Transparent live health + status (no secrets) | [fathimind-public-signals](https://github.com/mfathialrahman-crypto/fathimind-public-signals) |
 
