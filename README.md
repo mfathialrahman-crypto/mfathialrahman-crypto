@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT (public)](https://img.shields.io/badge/Public%20Components-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Ecosystem-Live%20%26%20Evolving-brightgreen)](https://github.com/mfathialrahman-crypto/FathiMind)
-[![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.36--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
+[![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.44--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
 [![Public Signals](https://img.shields.io/badge/Public%20Signals-Live-success)](https://github.com/mfathialrahman-crypto/fathimind-public-signals)
 
 > I do not curate other people's reading lists.  
@@ -13,7 +13,7 @@
 
 ---
 
-## Live Signal (2026-10-26)
+## Live Signal (2026-10-29)
 
 | Layer | Status | Version | Cadence |
 |-------|--------|---------|---------|
@@ -21,7 +21,7 @@
 | **MFR-Cognition** | STABLE · confidence 0.85+ | v4.2.254 | every 2h |
 | **AetherMind** | Operational | v1.3 | every 2h |
 | **SovereignEvolution** | Active · targets completed | v1.44 | daily 03:00 UTC |
-| **Public Core Pro** | Live · tested · CI green | v2.1.36-pro | continuous |
+| **Public Core Pro** | Live · tested · CI green | v2.1.44-pro | continuous |
 | **skill-collision-security-lint** | CI green (3.10–3.12) | v0.1.1 | continuous |
 
 Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC-0001) · Decision traces replayable.
