@@ -13,7 +13,7 @@
 
 ---
 
-## Live Signal (2026-11-04)
+## Live Signal (2026-11-05)
 
 | Layer | Status | Version | Cadence |
 |-------|--------|---------|---------|
@@ -103,4 +103,4 @@ Public components intentionally released under MIT for inspection and legitimate
 
 Any unauthorized commercial extraction of private engines is prohibited.
 
-*Last profile sync: 2026-11-04 — versions aligned with handbook and live Core Pro verification (27/27 tests, 98% coverage).*
+*Last profile sync: 2026-11-05 — versions aligned with handbook and live Core Pro verification (28/28 tests, 98% coverage, mypy --strict clean).*
