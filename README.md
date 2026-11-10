@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT (public)](https://img.shields.io/badge/Public%20Components-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Ecosystem-Live%20%26%20Evolving-brightgreen)](https://github.com/mfathialrahman-crypto/FathiMind)
-[![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.47--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
+[![Core Pro](https://img.shields.io/badge/Adaptive%20Core-v2.1.59--pro-orange)](https://github.com/mfathialrahman-crypto/MFR-Adaptive-Intelligence-Core-Pro)
 [![Public Signals](https://img.shields.io/badge/Public%20Signals-Live-success)](https://github.com/mfathialrahman-crypto/fathimind-public-signals)
 
 > I do not curate other people's reading lists.  
