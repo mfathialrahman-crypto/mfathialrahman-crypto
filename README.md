@@ -22,7 +22,7 @@
 | **AetherMind** | Operational | v1.3 | every 2h |
 | **SovereignEvolution** | Active · targets completed | v1.44 | daily 03:00 UTC |
 | **Public Core Pro** | Live · tested · CI green | v2.1.59-pro | continuous |
-| **skill-collision-security-lint** | CI green (3.10–3.12) | v0.1.1 | continuous |
+| **skill-collision-security-lint** | CI green (3.10–3.12) | v0.1.2 | continuous |
 
 Generation **238+** · All critical pipelines unit-tested · Shared schemas (RFC-0001) · Decision traces replayable.
 
@@ -103,4 +103,4 @@ Public components intentionally released under MIT for inspection and legitimate
 
 Any unauthorized commercial extraction of private engines is prohibited.
 
-*Last profile sync: 2026-11-11 — versions aligned with handbook and live Core Pro verification (28/28 tests, 98% coverage, mypy --strict clean).*
+*Last profile sync: 2026-11-13 — skill-collision-security-lint v0.1.2 (secrets, exfil, masked yaml.load). Core Pro line unchanged.*
